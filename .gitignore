@@ -31,3 +31,6 @@ vignettes/*.pdf
 teoria/.DS_Store
 
 /teoria/*.html
+
+#
+.ipynb_checkpoints/
